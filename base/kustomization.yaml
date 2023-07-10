@@ -1,3 +1,7 @@
+resources:
+- namespaces.yaml
+- serviceaccounts.yaml
+
 helmCharts:
 - name: cert-manager
   repo: https://charts.jetstack.io
