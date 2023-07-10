@@ -1,6 +1,5 @@
 resources:
 - base
-- clusters
 
 patches:
 - path: ignore-deployment-mutation-patch.yaml
